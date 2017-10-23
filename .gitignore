@@ -1,0 +1,5 @@
+*.bak
+dev/db
+dev/incremental_db
+dev/output_files
+dev/simulation
